@@ -7,8 +7,8 @@ require('dotenv').config();
 
 // LINE Channel Configuration
 const config = {
-  channelAccessToken: process.env.CHANNEL_ACCESS_TOKEN,
-  channelSecret: process.env.CHANNEL_SECRET
+  2007504889: process.env.CHANNEL_ACCESS_TOKEN,
+49ad55088b2c14c789fecdba1381f9a0: process.env.CHANNEL_SECRET
 };
 
 // สร้าง LINE client
